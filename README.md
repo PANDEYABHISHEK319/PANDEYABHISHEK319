@@ -4,7 +4,7 @@
 📍 Based in Noida | 🌍 Open to global remote roles<br>
 🛠️ Specializing in Jetpack Compose, Kotlin, and building high-performing, scalable mobile apps
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I love working on clean, well-structured codebases that support great UX and fast delivery. Solving tough technical problems in practical  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ways—and helping others do the same—is what keeps me motivated.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I love working on clean, well-structured codebases that support great UX and fast delivery. Solving tough technical problems in practical   ways—and helping others do the same—is what keeps me motivated.
 
 # 💫 About Me
 
